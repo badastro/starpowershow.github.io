@@ -1,0 +1,2535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20250719T225100" id="311bf653-30ed-4d65-a49b-1d9bc7012bab">
+    <XRef DateTime="20250719T224917" id="326d3bbb-277d-4966-b8b4-fc0c38660087"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="f8e26f32-71ab-4cd7-b50d-e493d06a3ec6">
+      <SceneProperties Length="1/8" Page="1" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Begin Main Titles</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="f8e26f32-71ab-4cd7-b50d-e493d06a3ec6">
+      <SceneProperties Length="1 3/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="CLAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROCKET">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - The Cosmos (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="49223ad7-68ea-4b39-873b-a0dae5ec67b7">
+      <Text>Pitch black. Suddenly, </Text>
+      <Text Style="AllCaps">smiling stars</Text>
+      <Text> pop out like lightbulbs.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="666d3eee-95d6-435c-81a7-382558019e90">
+      <Text>Stars</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="15b464b0-1abd-4baf-8648-8034d0178174">
+      <Text>(in unison)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46bfdbf0-ec9c-4a34-aea3-b70a08e48cb8">
+      <Text Style="AllCaps">Star</Text>
+      <Text>(dust)-</Text>
+      <Text Style="AllCaps">power! Star</Text>
+      <Text>(dust)-</Text>
+      <Text Style="AllCaps">power!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b8572112-5796-480c-8972-6ad680067436">
+      <Text Style="AllCaps">Stardust</Text>
+      <Text>, an animated whimsical, green mudpuppy, and </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">StarPower</Text>
+      <Text>, an animated stoic pink axolotl, soar from behind the stars. They stop to form a heroic pose in the center.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="b592db6f-328b-42dd-8e24-623b31711c73">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ea878aae-ac65-4fdd-84b5-ba1e020925ac">
+          <Text>Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7241fdd9-6b53-4b1a-b386-473373dad906">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="86871fd6-b217-4b17-aad8-550ad2b943ff">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="3e48caef-eb4b-4555-a0e8-326b1f345834">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="81555397-92c3-4130-bdf8-00f7973e2ef4">
+      <Text>A ROCKET SHIP with a smiling, animated face overtakes the frame. </Text>
+      <Text Style="AllCaps">Aurora</Text>
+      <Text> (30, live-action, dazzling in her gold shirt and celestial overalls), sings from the Rocket’s window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9ab0f43e-5665-4754-8122-6070dfa174e4">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="820214d1-164a-409f-8ceb-cb3dbcb0262a">
+      <Text Style="AllCaps">Let’s explore the </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">miniverse</Text>
+      <Text Style="AllCaps"> and make a trillion friends</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="58ef73db-2b1c-4d9c-aad1-a27698647a67">
+      <Text>The Rocket blasts towards a nearby planet. On the surface, </Text>
+      <Text Style="AllCaps">Ray</Text>
+      <Text> (30, live-action, surviving in her brown and pink jacket) sprints across a cratered landscape.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aaefc3b8-545c-4d19-ba53-f999fe69f092">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fa28bd5d-22c1-455b-b67b-ea7c23173d16">
+      <Text Style="AllCaps">Just like the universe it never ever ends</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d77caf3b-a24d-4934-9134-dbca7e9a37d9">
+      <Text>Ray runs past Aurora and Stardust, who are helping an </Text>
+      <Text Style="AllCaps">alien villager</Text>
+      <Text> read a holographic map in the dark.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7f50d43d-6030-4fe6-b1e7-112f105bffa0">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ba9caf35-afd0-4d3e-9942-3d5a742a1a55">
+      <Text Style="AllCaps">Let’s help a small villager with directions when we can</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="974cb88f-5292-4570-885e-4bf03285e342">
+      <Text Style="AllCaps">Boom</Text>
+      <Text>. The sun ignites, bathing the atmosphere in light. The camera pulls back at lightspeed to reveal </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> is now a gargantuan much larger than star systems. She gently nudges a stray star into the center of the star system.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5cebdd9f-ffc2-46eb-8f6d-92ccf53b3dfb">
+      <Text>Ray (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="68b09e87-d940-4d16-a026-672dae9feead">
+      <Text Style="AllCaps">Much like we can help planets find their star giant</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b72f66e3-5732-47b2-9776-6753aacca51e">
+      <Text>The camera pulls back even further, returning to the Stars.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="570a04a0-92a2-4143-ac11-5dff94016394">
+      <Text>Stars</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="435b555a-441f-4ef0-9ab8-9e4ad86a694e">
+      <Text>(Repeating)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8e930b1-4290-4c79-b3ce-27fee0df8e1c">
+      <Text Style="AllCaps">Stardust plus </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Starpower</Text>
+      <Text Style="AllCaps">!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b922142b-7d2e-4c57-a767-45e2b141840f">
+      <Text>The Rocket streaks across the screen. Aurora and Ray appear side-by-side in the window and </Text>
+      <Text Style="AllCaps">fist bump</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad4f6519-6995-446f-93c4-ff76275a534f">
+      <Text>AuroRA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b85d84e6-5c5d-4d0f-ac86-e994766afb27">
+      <Text Style="AllCaps">Aurora...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fc366b7c-32e4-4061-9dc6-e1e453704bc1">
+      <Text>RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="00c1e529-7be5-4149-a94a-0d2246eb942d">
+      <Text Style="AllCaps">...Ray.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="baa05101-e123-4ae0-8f43-d24693a8ff59">
+      <Text>Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> spiral around the window.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="ba7ac6a7-17ff-4441-b848-69d0aff0b6a9">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ea878aae-ac65-4fdd-84b5-ba1e020925ac">
+          <Text>Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7241fdd9-6b53-4b1a-b386-473373dad906">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="86871fd6-b217-4b17-aad8-550ad2b943ff">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="136cd67d-ddb1-4da5-8a3b-3fa54aa6f0dd">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b7efd2f-5b6f-4086-a863-1f067e8539d5">
+      <Text>Dust and Power’s trails form the </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">StarPOwer</Text>
+      <Text Style="AllCaps"> logo</Text>
+      <Text>. The logo settles over the swirling </Text>
+      <Text Style="AllCaps">Milky Way Galaxy</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="69045bfd-3757-4582-ab5d-fb956c12d95a">
+      <SceneProperties Length="5/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROCKET">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>End Main Titles</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2148e567-368b-43c2-8f98-c25a4b39daf6">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">logo’d</Text>
+      <Text> Milky Way Galaxy crack open like a </Text>
+      <Text Style="AllCaps">popup book</Text>
+      <Text>. Rocket pops out from the pages.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="748fe493-071f-4b2d-b8dc-9e66bbe38e2c">
+      <Text>Aurora appears in the rocket’s window and waves enthusiastically.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ad5da471-b7c3-4d78-98c2-26e751239ce6">
+      <Text>AurORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5c2edfcf-967d-4dc7-9379-0b681a1042d0">
+      <Text>Planets, comets, and galaxies everywhere! It’s me, Aurora! Have you seen our best friend, Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="eeb237ab-df23-478f-b40a-69b2f90d3f09">
+      <Text>Stardust soars out from behind a star and loops around the ship.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c68e5431-9051-4285-8437-7e5009cbbe94">
+      <Text>Stardust</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af782bb0-7bd6-4705-b26b-fb6a7ea6d1f5">
+      <Text>Twinkle </Text>
+      <Text AdornmentStyle="-1">twinkle</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">twinkle</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8046f8c3-c582-4d98-94ba-2b6f0788680c">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="9c4e7093-702d-4d32-bd35-0c051b22d8a9">
+      <Text>(in unison)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd419307-8c3a-495d-8d23-47fe1d94104e">
+      <Text>There she is!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="306c14ec-fd57-4917-b334-0b00fa3f9853">
+      <Text>Aurora ducks back inside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7e30fa4-19fb-4176-b23c-1f541976e9cb">
+      <Text>Rocket</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7f69c111-1f12-43bb-9a7b-01821c8dced8">
+      <Text>Come on in, </Text>
+      <Text AdornmentStyle="-1">starkids</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a48a32b-7286-4758-b434-a9918d9bbf6c">
+      <Text>The camera follows Stardust as she dives through the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="fa188c92-c872-404a-ad0b-cf417b84b208">
+      <SceneProperties Length="1 4/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AURORA &amp; RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0a48a32b-7286-4758-b434-a9918d9bbf6c">
+      <Text>Inside, the cockpit set is filled with colorful buttons. Aurora searches the cabin.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c24b2bc2-647e-4a6c-8b50-feb30797a913">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e1197009-603a-40be-bc6d-6a0d656ccb47">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b4025e30-8c2f-4767-b3fb-b2b1d867636e">
+      <Text>Hi! We're so glad you're here! We’re almost ready to land. Stardust? Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="edc1f33b-684c-4d29-ba4a-a3312d19cc73">
+      <Text>Stardust giggles and ducks underneath a nearby table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3eaac186-a7fc-4177-95ab-4fa6607b04ec">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="35f5ad05-4bc8-4566-a818-6d1a357f75f6">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="37b17ab6-23ca-47b9-8a00-c2d1e753932d">
+      <Text>Did you see Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7f4b7144-2d17-4096-82d5-7245fb3804be">
+      <Text>Ray walks in with a medical kit.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="14f64058-99fd-44e1-bafc-088d0c6cf261">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f2486fa3-773e-47da-bc51-f16e6c756269">
+      <Text>Right there! Under the table!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="40054e4f-a121-4f6b-905a-99f5e7993a8a">
+      <Text>Aurora mimics hand-goggles, and faces Ray.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0e612482-23ad-4e39-96a5-0625e1ff4986">
+      <Text>AurorA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7ba3546c-0bb0-4101-abb8-56ef667d884d">
+      <Text>It’s my sidekick, Ray! Ray, have you seen Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d290901f-a2ef-4b49-8203-d9de5f6bd004">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bf5c8b94-5b0c-4c4c-be72-edf2a2e3e8e8">
+      <Text>I have not seen Stardust, Aurora. But I </Text>
+      <Text Style="Italic">have </Text>
+      <Text>seen </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1d9ed371-bd8d-4ac0-9b81-58461435cdbe">
+      <Text>Ray taps the wall by the window. </Text>
+      <Text AdornmentStyle="-1">StarPower‘s</Text>
+      <Text> giant eye fills the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7ee4b24a-541c-4816-885c-ab20da12e001">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="067f3269-e3be-4e75-82f6-998ff16ad509">
+      <Text>Have you seen Stardust?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5e3f8438-bd17-483d-9615-e99bf3797529">
+      <Text AdornmentStyle="-1">StarPOWER</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="54b5f615-c051-4c9f-b553-a4754cb61348">
+      <Text>Bubble </Text>
+      <Text AdornmentStyle="-1">bubble</Text>
+      <Text> </Text>
+      <Text AdornmentStyle="-1">bubble</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0f37ad18-7274-4441-965c-8a6b6c2407c6">
+      <Text Style="AllCaps">Plop</Text>
+      <Text>. </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> shrinks to Stardust’s size and zips inside to join Stardust under the table.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="edf8ce1e-3035-42b7-8b5a-7a8d98b01fe3">
+      <Text>RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="0132b332-7340-4579-840c-51d9a4b5a6c8">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e7cf21ab-cd55-4036-9055-1039704f3508">
+      <Text>Under the table! Like you </Text>
+      <Text AdornmentStyle="-1">starkids</Text>
+      <Text> said!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="147aa457-bd4d-4328-bca0-ebd2a294efdc">
+      <Text>Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> swirl around Ray’s </Text>
+      <Text AdornmentStyle="-1">medkit</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d1c97149-423c-4686-a384-2c3f56a95ae7">
+      <Text>AurorA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f5546d7d-951f-4be7-bbd6-baa54ceb2aa6">
+      <Text>Oh! Ray, why do you have your </Text>
+      <Text AdornmentStyle="-1">medkit</Text>
+      <Text>? Is someone sick?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a4f1436c-8254-4902-b97a-b4d1291396c5">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c27a0949-31ee-465e-b9d8-d2098da3f129">
+      <Text>Our galaxy is, Aurora.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="955f337e-d896-45ff-b5c5-03e758cc4950">
+      <Text>AuRORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="183c741d-7472-46f0-8633-1e9769127b31">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="83cb9a0f-40cc-4b8d-af4e-2d579be4e532">
+      <Text>Oh no! Remind us... what is the name of our galaxy?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9f37acce-76c9-4cc1-ae1d-1e28eb32d9de">
+      <Text>KidS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4e0f01b8-e5fc-453a-8721-bd5ea2a681cc">
+      <Text>Milky Way!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9374fae4-41a6-443a-8f02-018142a3aa6f">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51edc974-9011-473b-95be-1ec9587d8627">
+      <Text>Is it... Triangulum?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a63ccf4d-e909-4596-95f3-d39c2e761143">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f4909f3d-a451-4d8b-b462-e3f7e0465a0f">
+      <Text>Andromeda?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2ced62b9-003f-444f-9ffd-d6363e24be15">
+      <Text>KidS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0de68878-27f1-44bf-809d-66dd0471600b">
+      <Text>Milky Way! Milky Way! Milky Way!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="87f59e3b-c775-4722-adc3-d950f569796a">
+      <Text>Aurora &amp; Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0eea844d-8b98-49dc-8966-4ac487ff6c4c">
+      <Text>Ah! Milky Way!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0147d697-9830-47fa-b7f6-ef63ef0dce0a">
+      <SceneProperties Length="3/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Deep Space - ConTINUOUS (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b87ce438-e573-4255-968b-70039780884e">
+      <Text>The camera pulls back to show the </Text>
+      <Text Style="AllCaps">Milky Way Galaxy</Text>
+      <Text>. They have drooping animated eyes and a thermometer tucked in the mouth.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8e0d6594-b010-46c4-a66a-1c7437b94dac">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="141dcefc-9b8f-48bd-8b76-769d657428e7">
+      <Text>Aww...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="11dae4ca-9551-4a29-8855-01a1a3e87f71">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2ca5c1ff-2446-4197-aafb-5d3909fe4c6f">
+      <Text>Milky Way isn’t feeling well...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c28f190b-f80b-4064-ba32-92452b80a206">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1a7f9895-6d8f-43a0-a545-75b586ae97f8">
+      <Text>Nothing is well until our gal is all better.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="caf867f0-d030-4138-908c-e2726bff1308">
+      <Text>The camera zooms back in.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="00ec125c-8a8e-48e6-bd8f-d9b359ff0601">
+      <SceneProperties Length="2 2/8" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AURORA &amp; RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AURORA, RAY, &amp; KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROCKET">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e01a7ed-db6f-4a25-b5e1-c68195c95a62">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="e6bb3b73-4fdd-4887-95f5-8818ad5f6d15">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d33b46ae-84a0-40c1-b9fb-b85f57d86174">
+      <Text>Let’s see why Milky Way has a fever! Everyone, put on your stethoscope ears.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0f961a87-d5ea-4fdb-a38b-4812e325d4c3">
+      <Text>Aurora cups her hands around her ears. Ray opens the </Text>
+      <Text AdornmentStyle="-1">medkit</Text>
+      <Text>, pulling out a glittery </Text>
+      <Text Style="AllCaps">stethoscope</Text>
+      <Text>. She presses it against the cabin wall everywhere until they pick up the </Text>
+      <Text Style="AllCaps">thumps</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="99f9cc6e-36f6-4002-87af-5f0a0616d8dc">
+      <Text>Glitter-thump. Glitter-thump.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e339a972-67c8-4017-9488-4699ae6c34f8">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6023b550-4ef4-4f22-a077-afe8c5b37488">
+      <Text>The sound is coming from Milky Way’s nose nebula.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8790920c-49f8-44f0-a54d-9f0b71c8546c">
+      <Text>Rocket (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4960df41-6fdf-43ec-a2b5-06147c51330e">
+      <Text>I’ve got the coordinates! Ready to Z-Z-</Text>
+      <Text AdornmentStyle="-1">Zoop</Text>
+      <Text>?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="31078101-c16d-41d0-a3bf-b19dae75bd45">
+      <Text>AurORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8ce6a998-ddd1-4fab-9e30-5933ea2ecb55">
+      <Text>(Grinning)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="39554e71-e0ff-42e2-8ce0-3358fba67179">
+      <Text>Pull the lever?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="08c1ab7a-6ec0-44d8-92e7-97e61071f34f">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="28dee545-b743-4618-82bd-1a3ad9597680">
+      <Text>Pull the lever.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8854d5c7-c98e-4bf0-9dd4-8eb0f4e7a8cd">
+      <Text>Aurora and Ray signal to Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text>. The two zoom to the control panel and yank a lever. The ship begins to hum and vibrate with energy.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f1b70896-faab-48ba-a8d4-c29c4cf9e235">
+      <Text>The crew quickly dives into their seats and click their rainbow seatbelts into place.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="45bf98de-1543-46c3-8ffc-4774df8e3686">
+      <Text>AurORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="662599ae-c8c9-485c-98f9-8c2228a732c8">
+      <Text>Buckle up, </Text>
+      <Text AdornmentStyle="-1">starkids</Text>
+      <Text>! We’re blasting off!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="491af422-1a77-4666-a1fd-672fcc7e3465">
+      <Text>The Rocket blasts off into the unknown.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2c2478ab-14bf-46fd-8682-fcce2701cef6">
+      <Text Style="Underline+AllCaps">"Rocket </Text>
+      <Text AdornmentStyle="-1" Style="Underline+AllCaps">Zoop</Text>
+      <Text Style="Underline+AllCaps">" Song</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8cce50d7-10e5-47cf-bb41-b4509e3b74df">
+      <Text>Aurora &amp; Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ea31a2cd-e6ef-4367-87dd-a9f5392d089f">
+      <Text Style="AllCaps">Be safe and buckle up
+The </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Miniverse</Text>
+      <Text Style="AllCaps"> has bumps
+While heading out into space
+Let’s visit a brand new place!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="6adf9245-cf2a-40db-94b5-1b963f237b1b">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="161c9d8f-528a-46b9-8466-2cff7126cac5">
+          <Text>StarDUST</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="ab1c1c21-4cd3-4a71-bb0b-403fc330cfbc">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="7c02d556-5d4b-4775-ae67-ba212802d7b8">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="e4e66a6b-1b87-4c87-b7a0-cba0f2f88738">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="9e7e0a69-55a0-4166-bc4e-d6c9469b9188">
+      <Text>AurorA &amp; Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6905eb4e-cd3f-4072-88bc-1a4bd3e80ca5">
+      <Text AdornmentStyle="-1" Style="AllCaps">Zoop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoopity</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">doop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoop</Text>
+      <Text Style="AllCaps">!
+Watch the Rocket zip past by
+</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Zoop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoopity</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">doop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoop</Text>
+      <Text Style="AllCaps">!
+We are moving faster than light</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="728517d0-e9d7-4062-b3f4-3c8148a02295">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f35315c2-5710-42a0-938d-1aba2ea88639">
+      <Text Style="AllCaps">Space is Clear!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ba91770a-b487-47a9-b3eb-8973296dea82">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8456cfe9-1b82-43a2-a124-c3a2476d18fc">
+      <Text Style="AllCaps">Glitter steer!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="518b1c28-2ea9-4ecd-af2c-bea35a65b9ea">
+      <Text>Aurora, Ray, &amp; Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="39255806-00e2-4ffb-ae25-96a45a41185d">
+      <Text Style="AllCaps">Our Rocket is finally here
+</Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">Zoop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoopity</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">doop</Text>
+      <Text Style="AllCaps"> </Text>
+      <Text AdornmentStyle="-1" Style="AllCaps">zoop</Text>
+      <Text Style="AllCaps">!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2c2478ab-14bf-46fd-8682-fcce2701cef6">
+      <Text Style="Underline+AllCaps">End of "Rocket </Text>
+      <Text AdornmentStyle="-1" Style="Underline+AllCaps">Zoop</Text>
+      <Text Style="Underline+AllCaps">" Song</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dcedbdb7-4314-4f45-b8f5-572a5915cad8">
+      <Text>The Rocket comes to a smooth halt in a vast stretch of space.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="dcedbdb7-4314-4f45-b8f5-572a5915cad8">
+      <Text>The crew unbuckles, leaning in to listen to the hull. From outside, the sound of heavy hops vibrate through the metal.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b492ccfb-aaf5-476a-a8ef-acb26eaf6fab">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cc13ce8-4c53-40a8-90e6-6fc7ba74fa2a">
+      <Text>Milky Way sounds dusty.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ce0495d7-8921-4b9b-9129-9c35f9d3e6a7">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51f6cf07-36b1-42e5-af2a-b0fe96cd9f9c">
+      <Text>Wait a minute! The Milky Way can't be that dusty, they aren’t that old! Or are they?</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="b849beae-f4a4-4fcc-81d8-fe685f2f02eb">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51f6cf07-36b1-42e5-af2a-b0fe96cd9f9c">
+      <Text>They are 13.6... Thousand or million years old?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5a21d18e-5938-4f87-ae8b-0bace045017b">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="34b07a81-c508-409c-8144-b00eeac32688">
+      <Text>Thousand, million, thousand, mil-!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bea81702-369b-4f2e-b15b-ee8732cfc67c">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ffc26291-6a5d-4668-b8a3-83ba986aa1b5">
+      <Text>Milky Way is 13.6 billion years young.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b065aa7b-59f0-4ced-bb33-ca679188f442">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="79694b08-e027-4eb7-8747-a033d28af9a8">
+      <Text>Woah... Billion?!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b930e947-d11a-40e6-becc-0c6da06f5fb9">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9498c605-7232-407f-a36a-f53cccf96a90">
+      <Text>That’s a lot of time to collect dust!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d8b3a74-999f-4ea9-a6d5-7d94f9532f0d">
+      <Text>AurorA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4f449f67-b5c3-4fb8-a461-0e3b8a817f40">
+      <Text>Space dust isn't like the dust under your bed, </Text>
+      <Text AdornmentStyle="-1">starkids</Text>
+      <Text>. It’s made of tiny pieces of rocks, metals, and even carbon left over from stars who’ve aged well a long, long time ago!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b11ccabb-8341-41e6-89ff-7daca0ebabb3">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e8ec8df0-d9ee-471e-9d39-779a8df58068">
+      <Text>Oh, this is not your average space dust either, Aurora!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6f25f173-4666-4ab2-be53-ffd512f2304c">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b613cfbd-c94c-4e38-8331-62e17f96905e">
+      <Text>What are they, Ray?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d2703d9d-bc0d-4798-81ec-9a0f17503227">
+      <Text>RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0241f531-2841-42c0-b0e8-ddb7a40255be">
+      <Text>Stardust Bunnies!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06cc8ad6-637a-4fa0-90dd-d0cebcf48431">
+      <Text>Ray points out the window.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5f97de5e-c182-4fa8-a5b6-ba46b86a68d0">
+      <SceneProperties Length="2/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - Nose Nebula (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="06cc8ad6-637a-4fa0-90dd-d0cebcf48431">
+      <Text>Floating around are sentient giant </Text>
+      <Text Style="AllCaps">stardust bunnies</Text>
+      <Text>, hopping around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="acb408e7-249b-49f4-83f4-1411865281ce">
+      <Text>AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="438adb5a-8663-4a80-ae3c-30a9e3d7c1e6">
+      <Text>Oh no! The Milky Way has stardust bunnies stuck in their nose! All that hopping is making them sneeze!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="86d16b15-502a-498b-957c-f90844852005">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Deep Space - ContinUOUS (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f35fb842-f55d-4b33-bbce-81b8f052dd51">
+      <Text>The Milky Way’s nose, represented by a nebula, twitches. They sneeze.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b25815cc-b604-4f68-9fde-4af49f6977be">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="0c05adcb-7151-4628-b728-076c88c4b9ea">
+      <Text>ACHOO!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1feae320-0005-43a5-bcdc-a2229f68dbf2">
+      <Text>The camera zooms back in. The Stardust Bunnies hop out of reach.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="188780d8-f852-4b04-9b98-7abceecac4b6">
+      <SceneProperties Length="4/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="03e9bc48-fe93-43dd-97b2-4ee29eafc935">
+      <Text>The Rocket shakes. Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> tumble out from under the table, spinning like tops.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4ab6835-3797-414c-9e93-19d7349a7991">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e13eee83-d117-417d-b243-74fb948d5cba">
+      <Text>If the Milky Way keeps sneezing, we’ll never be able to land our ship. It’s too bumpy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b114960d-b383-415b-9bc3-f47b55ef387e">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="62cde734-ceb8-488e-970a-21f18aa7b4ea">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="16c5fc83-df52-4bc0-bd22-a32e118c3bec">
+      <Text>We need to help clean up the stardust bunnies! But they hopped so high up. How can we reach the top of a galaxy?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f7a75595-e346-4755-b6cc-8f315659ebf7">
+      <Text>Stardust taps </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> on her shoulder.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="95951c9d-d56a-4548-a7bd-6359f8f05a1f">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ea878aae-ac65-4fdd-84b5-ba1e020925ac">
+          <Text>Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7241fdd9-6b53-4b1a-b386-473373dad906">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="86871fd6-b217-4b17-aad8-550ad2b943ff">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="136cd67d-ddb1-4da5-8a3b-3fa54aa6f0dd">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="fb4e5966-e4dd-41f7-9b3d-9013d387107c">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="177cdf83-6f81-447c-9e4c-fcac3f9b4998">
+          <Text>Aurora</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="a4f0e20a-d9e3-478c-aee8-5b87f10ff6da">
+          <Text>Twinkle-Power!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="d42239dd-2e3a-451f-8813-ca4ed11c419e">
+          <Text>Ray</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="1b1fda02-abec-4688-a3b1-51b4ae0e9168">
+          <Text>Bubble-Power!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="3bc44312-89ef-44c8-8c8c-df07a72e510d">
+      <SceneProperties Length="1/8" Page="7" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - Nose Nebula - ContINUOUS (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="00fccf7b-6bb9-4ccb-bc6e-a4924a095b85">
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> flies out the window and begins to grow.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="07806a38-2d3c-4a27-89bd-6afce9a8f79e">
+      <SceneProperties Length="2/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - ContinUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="94ca69e9-34b9-426d-b292-68e6b16f91b6">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="6dccfd2e-d41a-4f3f-b3a5-ce88fea10d47">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ab270235-4388-41dc-94a3-151d35b33fe9">
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> needs more room to grow! </Text>
+      <Text AdornmentStyle="-1">Starkids</Text>
+      <Text>, stretch your arms out wide!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="efc4efe5-c246-456b-9d41-9897ea2de6d8">
+      <Text>Aurora stretches out her arms.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="cb2c20b4-a31b-4efc-b798-a3b42bbd75b6">
+      <SceneProperties Length="3/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - Nose Nebula - ContinUOUS (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c7a31494-ab4e-4935-bace-08a5f6a04581">
+      <Text>Aurora (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12a6939c-b9d5-4f89-8054-b285cb359abf">
+      <Text>Wider! Even wider!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5ae65d08-812e-450e-959b-f0f3e05b4f3d">
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> stretches across the void, transforming into a cosmic pink titan, with her gills shining like an aurora.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4f3f42e8-7dc8-4982-8d38-889edb444be1">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2e403215-352e-4231-9bc3-d68683d4acdc">
+      <Text>She is a giant!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b7c665ca-0d37-40f9-9f01-ffcdcccccbbb">
+      <Text>AurorA (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="63a8318d-fd8f-4c49-bc46-b71c2952f35a">
+      <Text>Thank you for lending a helping arm, starkids!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="12b34a53-1668-4e65-8292-180d79b4f8c5">
+      <Text>The Stardust Bunnies look up. Their twitching noses freeze in fear. They try to hop away, but </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> gently scoops a cluster of them into her massive palms.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5dc87f85-5398-49b6-94f3-86577cf39171">
+      <SceneProperties Length="7/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="AURORA &amp; RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MILKY WAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="03af96db-24ca-4fd3-ade2-bbbbefdaed23">
+      <Text>Aurora and Ray press their faces against the glass, dwarfed by the scale of their friends outside.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e4fc205e-c923-4afb-82da-58aa49977357">
+      <Text>AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="3c74d6df-613b-44b2-8309-33dcab47187d">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d04c0b4b-7d94-4f22-8f5e-44705608983e">
+      <Text>Look! </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> is using her super-size to catch the Stardust Bunnies!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="690f7503-ccf3-421f-a7d9-e757e025c78a">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d04c0b4b-7d94-4f22-8f5e-44705608983e">
+      <Text>But they’re so wiggly! Bunnies can get hurt if they move too much. We need to help her keep them still.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6daa1aa1-5f5b-4694-9b27-946eb62a7a8e">
+      <Text>AurORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7e45fdbf-de42-4d82-9e4f-45d75a2a0f72">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d04c0b4b-7d94-4f22-8f5e-44705608983e">
+      <Text>Let’s sing them a lullaby!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="aa5c23e0-2b91-4cc2-9a67-e9c2170782fa">
+      <Text>Stardust rushes out with her miniature marimba and mallets.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="033a4aaa-8913-4989-9153-a4af9740ff14">
+      <Text>RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6a12231d-b49d-4e80-903b-33bffd9f96e2">
+      <Text>Stardust. On the count of four. One... two... three... four...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2c2478ab-14bf-46fd-8682-fcce2701cef6">
+      <Text Style="Underline+AllCaps">"Hop to Nap" Song</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e172d95e-0bb4-495a-aca7-1d46551de0c2">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a1dd999e-d274-4f0d-9b82-e67327703d20">
+      <Text Style="AllCaps">Bunny, you don’t need to be running
+Bunnies, everything is now sunny
+Stop and relax
+Please hop to nap</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="65adecdc-b9f9-46dc-aa38-bcd366423ff5">
+      <Text>Aurora &amp; Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3d35dad2-e852-4437-a23c-cbc5f9b49cf2">
+      <Text Style="AllCaps">Stop and relax
+Please hop to nap</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="30155dca-785f-448d-8c60-828fa1e422a0">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="f7006ff3-7465-4328-9d1e-563115c75c39">
+          <Text>Aurora &amp; Ray</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="ed0da965-843f-4dda-b5a9-5c6253259859">
+          <Text Style="AllCaps">Stop and relax
+Please hop to nap</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="7bf829b3-2cf4-4849-a16d-a7765b58dcfb">
+          <Text>Kids (V.O.)</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="d1682df3-ac21-4e7b-8d2b-dded97413faa">
+          <Text Style="AllCaps">Stop and relax
+Please hop to nap</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Action" id="31943926-d89c-4ea8-88a0-ee961c34e86b">
+      <Text Style="Underline+AllCaps">End of "hop to Nap" Song</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading" id="29dabb3b-68e4-4a54-8566-a9e95c0f822b">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - Nose Nebula - ContinUOUS (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fbaeb649-5a9f-4cf2-8b35-274ecc9472b3">
+      <Text>The vibrations ripple through the vacuum of space.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fbaeb649-5a9f-4cf2-8b35-274ecc9472b3">
+      <Text>The Stardust Bunnies stop struggling, with their long ears drooping as they fall into a cosmic nap.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d88049fd-cb67-4910-abb3-5a673e8322e8">
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> uses her tail to sweep the remaining Stardust Bunnies into a neat pile.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="b981295e-608a-4b0f-b03f-6bcc26d64943">
+      <SceneProperties Length="2/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MILKY WAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Deep SPACE - ContINUOUS (animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="46032c87-be98-42e6-a586-a8fe82653806">
+      <Text>The Milky Way’s animated face relaxes. The thermometer pops out of its mouth with a cheerful </Text>
+      <Text Style="AllCaps">pluck</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1181e4ab-d6c0-4c70-960d-6c887769db70">
+      <Text>MILKY WAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fd4d2ff3-a369-4fba-95dd-5d3960acd29d">
+      <Text AdornmentStyle="-1">Ahhh</Text>
+      <Text>... much better. My nebula feels clear!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="eceb5487-5732-4674-a341-dc64fccc7140">
+      <SceneProperties Length="1 2/8" Page="9" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - ConTINUOUS</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="65760f0f-85cf-4d60-b55a-e95e62c36d64">
+      <Text>The shaking stops. The cockpit levels out, glowing with a soft gold light. </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text>, now normal size, flies back in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="930d7b23-51f5-4d87-a3ba-dac782f6b0fb">
+      <Text>AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="cf5864b5-ba89-4061-ac00-947ee5d87847">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="858df57b-5db2-49ae-8b35-fe507902b30a">
+      <Text>We did it! With a little help from our giant friend and your amazing twinkling!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a74f0386-fee4-447d-97c7-6b70c8831ebb">
+      <Text>They high-five and high-fin in mid-air.</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="c9483bed-6fb2-4bae-90db-9e5aef3225b2">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ea878aae-ac65-4fdd-84b5-ba1e020925ac">
+          <Text>Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7241fdd9-6b53-4b1a-b386-473373dad906">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="86871fd6-b217-4b17-aad8-550ad2b943ff">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="136cd67d-ddb1-4da5-8a3b-3fa54aa6f0dd">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="6368f221-6f3e-46d0-a67d-b57bcd1358da">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a5c23be2-1a5b-449a-9ca6-535cefb317e6">
+      <Text>You’re right, Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text>. Let’s find a home for the Stardust Bunnies.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9b2105ef-2145-46d8-8548-73325cb36e7a">
+      <Text>The Rocket glides alongside a lavender asteroid belt with nebulas in view.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="002af6e7-8cd5-451e-9681-e7f6a90f8cd9">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c744a412-09cb-4d07-8487-6eac6591557b">
+      <Text>The Stardust Bunnies need a place where they can hop and play without tickling any more galaxy noses. </Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="200eb741-b949-4963-82d5-c626bad4682e">
+      <Text>AurorA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="32b7436f-a153-4fb7-8619-383c425f4eca">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c744a412-09cb-4d07-8487-6eac6591557b">
+      <Text>Do you see a place that looks soft and bouncy?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c488695e-618e-4aa7-bfde-5d8acb22ac26">
+      <Text>Aurora gestures to the window, where a moon, a planet with rings, and a nebulous field loom in deep space.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c8b8b839-165b-4777-a277-204ccdce5f75">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4a6c8e64-e119-477d-8903-8b680d57e391">
+      <Text>Should we release the bunnies on a moon?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="27a94bd4-0b96-4713-ba18-dde2808991cc">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3efdc1d4-3f99-44ad-b88c-86ac2664eac3">
+      <Text>It’s full of craters.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8f0b2104-eac5-44c4-8c67-1045e92615c9">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="36ab9407-f280-40fc-be93-723b6c9ced77">
+      <Text>Should we drop them off on a ring planet?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0bfed5c3-5577-4352-afbe-00fc4fbc2cbb">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="edc94743-ca5b-47dc-a4a7-6ad87af795f3">
+      <Text>They might slip on the ring.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aa763922-def5-4e0b-a75e-5e03838ba862">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="46026cf8-2995-46f8-be79-6ddecf01e266">
+      <Text>How about the Cotton Candy Nebula?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5090f538-b232-4568-90d0-98e5e46e1d8a">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="b262960f-e774-4ce5-8b9c-38655bfc6df1">
+      <Text>Cotton Candy!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d11a3a2e-372e-4d0b-a94a-2cf56d23ab70">
+      <Text>AurorA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="adc8eddd-392d-4a06-9096-7a3780f18fa6">
+      <Text>The ring planet?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="65cd6c8a-3cf1-4af1-b793-be35af833625">
+      <Text>KidS (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dea82074-b4b4-4f3d-916d-a0dd65866858">
+      <Text>The Cotton Candy Nebula!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1c2fac52-4d24-4fe8-aabd-22f1788f6f01">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="293de48a-c62f-4631-87bc-eb9495a8ca4e">
+      <Text>The softest place in the </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text>!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e9c114e1-ff05-4212-a1d0-685de72485f1">
+      <Text>Aurora pulls a glittery lever labeled GENTLE TRACTOR BEAM.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bea3294d-d3e3-421b-abfe-66d819c094ae">
+      <SceneProperties Length="3/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. </Text>
+      <Text AdornmentStyle="-1">Miniverse</Text>
+      <Text> - Nose Nebula - ContINUOUS (animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e9c114e1-ff05-4212-a1d0-685de72485f1">
+      <Text>A swirling beam of rainbow light shoots out from the Rocket's nose.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8c3203d7-ec21-42d9-9059-c174ccf9cda5">
+      <Text>Outside, the slumbering bunnies begin to float, following the rainbow trail like a parade.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3b54af64-7e94-487c-9950-a09e99dd7a6d">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="7144b50f-1f82-4b46-b342-d352a860927a">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cabdd9d7-bed1-43f0-b10b-2a93714c79cb">
+      <Text>Help us lead them home!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3be6590d-3c6d-479d-b8e0-0c5d9e425db8">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cabdd9d7-bed1-43f0-b10b-2a93714c79cb">
+      <Text>Wave your arms like a magic wand!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="30c6752b-3760-47f5-970f-7bd55bcdd675">
+      <Text>Aurora and Ray wave their arms around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e7dcbd17-4c6a-4758-aed0-e6b21dc7429b">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c292e2a3-1e0b-4d13-950a-f8cbb3cec67f">
+      <Text>Whoosh! Whoosh!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="bc3ae379-e52d-4890-9ae3-0487811403c5">
+      <SceneProperties Length="2/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MILKY WAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Ext. Cotton Candy Nebula - Moments Later (Animated)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6e5faaa3-803d-40d8-a50e-ad7c1d85cd89">
+      <Text>The Stardust Bunnies land softly in a pink, puffy cloud. One wakes up, nibbles on a stray bit of cosmic dust, and does a happy backflip.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ed632da0-aa34-4399-b9aa-6f50c6365988">
+      <Text>Milky Way (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c55d135a-9ea2-4b42-a6da-c24801f7072f">
+      <Text>Thanks, tiny neighbors! Enjoy your new home!</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="fe81c464-cb4f-4fa7-a157-da61df41ff45">
+      <SceneProperties Length="1 2/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="AURORA">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="KIDS">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="MILKY WAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="RAY">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROCKET">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARDUST">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="STARPOWER">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>Int. Rocket - Continuous</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="af18b0e5-9045-41b5-a4d4-912d8849ce1b">
+      <Text>Ray closes her </Text>
+      <Text AdornmentStyle="-1">medkit</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9a02ab63-b62a-4089-b8db-f804151f14a9">
+      <Text>RAY</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a305fb7e-c732-4949-8f08-aeb3d2613acd">
+      <Text>Patient stable. Galaxy healthy. Mission accomplished!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3339eecf-aaa4-4e7e-8668-c2e1380aafe7">
+      <Text>AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="85b32a05-bac2-4c2b-a810-9bd3f7b8fb0d">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26c91d93-5a67-4dd9-8446-9ca393e14f87">
+      <Text>We make a great team, </Text>
+      <Text AdornmentStyle="-1">starkids</Text>
+      <Text>.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="60d12ac7-e8e0-4e98-b6b1-39a7eb4d4d79">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="26c91d93-5a67-4dd9-8446-9ca393e14f87">
+      <Text>We helped Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text>...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="591e4526-abc5-4be4-ac5c-1acd4f8c60d7">
+      <Text>AurORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f667ba2-ca14-430c-8a81-a73c80769482">
+      <Text>...saved the bunnies...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e0d233ca-79e9-48d0-9bf4-ed5ef9cd7d9b">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f667ba2-ca14-430c-8a81-a73c80769482">
+      <Text>...and kept our galaxy mucus-free!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d28b6cec-112e-44a0-9834-a063574e43ef">
+      <Text>AURORA</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12d8314a-50a8-4004-928c-ad6034a2019a">
+      <Text>Now that the Milky Way is feeling better...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7c49c70b-d6e5-4a34-890c-9657301e951f">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12d8314a-50a8-4004-928c-ad6034a2019a">
+      <Text>...it’s time to celebrate!</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="General" id="b317c5d3-6e88-4552-98ff-83dec8c62ed3">
+      <DualDialogue>
+        <SpellCheckIgnoreLists>
+          <IgnoredRanges/>
+          <IgnoredWords/>
+        </SpellCheckIgnoreLists>
+        <Paragraph Type="Character" id="ea878aae-ac65-4fdd-84b5-ba1e020925ac">
+          <Text>Stardust</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="7241fdd9-6b53-4b1a-b386-473373dad906">
+          <Text>Twinkle </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">twinkle</Text>
+          <Text>!</Text>
+        </Paragraph>
+        <Paragraph Type="Character" id="86871fd6-b217-4b17-aad8-550ad2b943ff">
+          <Text AdornmentStyle="-1">Starpower</Text>
+        </Paragraph>
+        <Paragraph Type="Dialogue" id="136cd67d-ddb1-4da5-8a3b-3fa54aa6f0dd">
+          <Text>Bubble </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text> </Text>
+          <Text AdornmentStyle="-1">bubble</Text>
+          <Text>!</Text>
+        </Paragraph>
+      </DualDialogue>
+    </Paragraph>
+    <Paragraph Type="Character" id="df4fc029-cd84-4b58-8394-fcc05a8860b9">
+      <Text>AuRORA</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="4cd9ebea-4e96-4822-9899-fa0fd831f2f0">
+      <Text>(to camera)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="12d8314a-50a8-4004-928c-ad6034a2019a">
+      <Text>What’s the best way to celebrate a healthy galaxy?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d1bc752e-289e-42be-8851-2a300680ab8e">
+      <Text>Ray presses the stethoscope against the cabin wall.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a57d7964-5d17-48ff-8bb2-b603c0ba0b43">
+      <Text>Milky WAY (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="bd2b27cb-48ca-4d8a-a9d1-db49a44a8002">
+      <Text>Dance! Dance! Dance!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ac2372bd-be98-4419-afd2-a210eeb4f3b2">
+      <Text>Kids (V.O.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ec76db71-3931-4331-8b34-5c9ef38679b9">
+      <Text>A DANCE PARTY!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="54ae1d6b-d9d8-4f39-af4d-f2f02b3e9338">
+      <Text>Aurora</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af58a164-9725-4a55-a398-36722ba7aba4">
+      <Text>You read my mind!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e5980feb-5db5-4b65-90e2-a3eca9e827a8">
+      <Text>Ray</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="af58a164-9725-4a55-a398-36722ba7aba4">
+      <Text>Rocket, hop to it!</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c8059ebe-0837-4d52-9a4e-d26b6cdbc6c4">
+      <Text>RockET</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="afdafc54-b3bc-47a8-908e-43f231eca042">
+      <Text>Hopping right up!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e30bccf-fcec-4828-a1fc-e3db8a66e47b">
+      <Text>The cockpit lights turn into a disco ball.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b521b69-9866-4877-a6a2-343f6f718efc">
+      <Text>Aurora and Ray hop like bunnies together while Stardust and </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> spread glitter around the cabin.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e30bccf-fcec-4828-a1fc-e3db8a66e47b">
+      <Text>The </Text>
+      <Text AdornmentStyle="-1">StarPower</Text>
+      <Text> logo flashes as the music eventually winds down.</Text>
+    </Paragraph>
+    <Paragraph Type="Transition" id="29616ab5-bf7b-4533-8d0f-704f29b5ba32">
+      <Text>Cut to black.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="1d686bb2-d1c8-465d-b94b-e6b312d4c003">
+      <Text Style="Underline+AllCaps">The End</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="Yes" HeaderFirstPage="Yes" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">                           StarPower!</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">    	     </Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">                       Milky Way Sick Day</Text>
+        <Tabstops>
+          <Tabstop Position="4.50" Type="Center"/>
+          <Tabstop Position="7.25" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="554" Left="0" Mode="Maximized" Top="0" Width="1364"/>
+
+  <TextState Scaling="100" Selection="1351,1351" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.13" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.63" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">i.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+        </Paragraph>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">STARPOWER</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">!</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Pilot: "Milky Way Sick Day"</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">by</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">David Quang Pham</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Revised Draft</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">3/17/2026</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">512 W 158th St #2 New York, New York 10032</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">david</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">@</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="4" Style=""> </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">flavorpictures</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">com</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">616 818 5413</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Premise</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A live-action/animated educational series where a cosmic mudpuppy named Stardust and her big axolotl sister, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">StarPower</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, use their powers to help their human friends, Aurora and Ray, and the viewer save worlds in trouble, explore the universe, and learn science.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Episode</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Aurora, Ray, and their cosmic friends Stardust and </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">StarPower</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> must use their unique powers and the viewer's help to cure a sneezing Milky Way Galaxy by gently relocating a cluster of giant Stardust Bunnies to the Cotton Candy Nebula.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Plot Summary</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The crew of the Rocket discover that the Milky Way Galaxy is sick. After checking the galaxy with a stethoscope, they realize the sneezing are caused by a pack of Stardust Bunnies.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">To solve the problem, </Text>
+        <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">StarPower</Text>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> transforms into a cosmic giant to gently scoop up the bunnies. With help from the viewers and the Stardust, who provide a calming sound, the scared bunnies fall into a deep sleep. Once the bunnies are calm, Aurora uses a gentle tractor beam to send the sleeping creatures to a new, softer home in the Cotton Candy Nebula.</Text>
+      </Paragraph>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">With the Stardust Bunnies safely relocated, Milky Way's nose clears up. The crew celebrates with a dance party.</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="1368,1368" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>Aardvark</Character>
+      <Character>AarDVARKs</Character>
+      <Character>Amami Rabbits</Character>
+      <Character>ATV</Character>
+      <Character>Audience</Character>
+      <Character>Aurora</Character>
+      <Character>Aurora</Character>
+      <Character>Baker G</Character>
+      <Character>Clay</Character>
+      <Character>Clay &amp; Ray</Character>
+      <Character>Clay &amp; Trini</Character>
+      <Character>Clay &amp; Trini &amp; Kwan</Character>
+      <Character>Crowd</Character>
+      <Character>Cát</Character>
+      <Character>Dino</Character>
+      <Character>Dàn Xuân Thanh</Character>
+      <Character>guard</Character>
+      <Character>Handler</Character>
+      <Character>Horseshoe Crabs</Character>
+      <Character>Host</Character>
+      <Character>Kid</Character>
+      <Character>Kids</Character>
+      <Character>Kooky</Character>
+      <Character>Kwa</Character>
+      <Character>Kwan</Character>
+      <Character>Kwan &amp; Kids</Character>
+      <Character>MOrgan</Character>
+      <Character>Nigel</Character>
+      <Character>Nurse</Character>
+      <Character>Officer</Character>
+      <Character>Performer</Character>
+      <Character>Phone</Character>
+      <Character>Producer</Character>
+      <Character>Puppeteer</Character>
+      <Character>Ray</Character>
+      <Character>Ray &amp; Clay</Character>
+      <Character>Ray &amp; Kwan</Character>
+      <Character>Reporter</Character>
+      <Character>Researcher 1</Character>
+      <Character>Researcher 2</Character>
+      <Character>Ri</Character>
+      <Character>River</Character>
+      <Character>Rocket</Character>
+      <Character>Sall</Character>
+      <Character>Sall &amp; Cát</Character>
+      <Character>Sall &amp; CÁT
+</Character>
+      <Character>Savanna</Character>
+      <Character>Skye</Character>
+      <Character>Stage Manager</Character>
+      <Character>Star</Character>
+      <Character>Stardust</Character>
+      <Character>Starpower</Character>
+      <Character>Stars</Character>
+      <Character>Trini</Character>
+      <Character>Trini &amp; Kids</Character>
+      <Character>Waiter</Character>
+      <Character>Young Sall</Character>
+      <Character>Aurora &amp; Ray</Character>
+      <Character>Milky Way</Character>
+      <Character>Aurora, Ray, &amp; Kids</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(Phone)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>LIVING ISLAND</Location>
+      <Location>HAIPHONG HOSPITAL</Location>
+      <Location>UNDERWATER</Location>
+      <Location>OCEAN</Location>
+      <Location>CÁT'S ROOM IN HAIPHONG HOSPITAL</Location>
+      <Location>FOSSIL ISLAND</Location>
+      <Location>SEA</Location>
+      <Location>TALK SHOW SET, STAGE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LAB</Location>
+      <Location>CÚC PHUONG NATIONAL PARK, VIETNAM</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LIBRARY</Location>
+      <Location>CÚC PHUONG NATIONAL PARK DOCK</Location>
+      <Location>FOSSIL ISLAND BEACH</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION STAIRCASE</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION PARKING LOT</Location>
+      <Location>HIGHWAY</Location>
+      <Location>FOSSIL ISLAND CLIFF</Location>
+      <Location>PORT NEWARK</Location>
+      <Location>EAST COAST</Location>
+      <Location>FOSSIL ISLAND BAY / EXT. UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION LOBBY</Location>
+      <Location>FOSSIL ISLAND - BAY &amp; UNDERWATER</Location>
+      <Location>BANG-LEVIN BIOLOGICAL STATION - LAB</Location>
+      <Location>BANGOR RACEWAY</Location>
+      <Location>CONTAINER</Location>
+      <Location>CARGO SHIP - BRIDGE</Location>
+      <Location>CARGO SHIP</Location>
+      <Location>GREEN ROOM</Location>
+      <Location>FOSSIL ISLAND - UNDERWATER</Location>
+      <Location>HANOI-HAIPHONG EXPRESSWAY</Location>
+      <Location>FISH MARKET RESTAURANT</Location>
+      <Location>BAKERY</Location>
+      <Location>LAN HA BAY</Location>
+      <Location>GULF OF TONKIN - CAT</Location>
+      <Location>GULF OF TONKIN - CÁT BÀ ARCHIPELAGO</Location>
+      <Location>ELEMENTARY SCHOOL</Location>
+      <Location>FOSSIL ISLAND - BAY</Location>
+      <Location>FOSSIL ISLAND - BEACH</Location>
+      <Location>SAILBOAT - CABIN</Location>
+      <Location>SAILBOAT</Location>
+      <Location>THE SEA</Location>
+      <Location>THE SAILBOAT</Location>
+      <Location>MONKEY ISLAND - BEACH</Location>
+      <Location>HAIPHONG HOSPITAL - HALLWAY</Location>
+      <Location>MONKEY ISLAND - CIVILIZATION</Location>
+      <Location>HAIPHONG HOSPITAL - EMERGENCY ROOM</Location>
+      <Location>EMERGENCY ROOM / U.S. NAVY OFFICE</Location>
+      <Location>HAIPHONG HOSPITAL - LAB</Location>
+      <Location>HAIPHONG HOSPITAL - DR. THANH'S OFFICE</Location>
+      <Location>NORTHEASTERN UNITED STATES</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT</Location>
+      <Location>PHO RESTAURANT IN BANGOR, MAINE</Location>
+      <Location>GOVERNMENT OFFICE</Location>
+      <Location>AIRBUS</Location>
+      <Location>BANGOR INTERNATIONAL AIRPORT - ARRIVAL GATE</Location>
+      <Location>Sall'S BEDROOM</Location>
+      <Location>TRAN'S HOME</Location>
+      <Location>HAIPHONG</Location>
+      <Location>THE CITY OF HAIPHONG</Location>
+      <Location>KARAOKE BAR</Location>
+      <Location>LAN HA BAY - CLIFFSIDE</Location>
+      <Location>SWING SET</Location>
+      <Location>SHACK</Location>
+      <Location>Sall NATIONAL PARK</Location>
+      <Location>ATV</Location>
+      <Location>MONKEY ISLAND</Location>
+      <Location>SAKHO HOME</Location>
+      <Location>CLEARING</Location>
+      <Location>Clay &amp; Ray'S BEDROOM</Location>
+      <Location>SAVANNA'S BEDROOM</Location>
+      <Location>THEATRE BACKSTAGE</Location>
+      <Location>BACK TO THE ROOM</Location>
+      <Location>RAY'S CAR</Location>
+      <Location>MICHIGAN STATE UNIVERSITY</Location>
+      <Location>BIOMEDICAL AND PHYSICAL SCIENCES BUILDING</Location>
+      <Location>KWAN'S APARTMENT</Location>
+      <Location>THE PEANUT BARREL</Location>
+      <Location>RAY'S DREAMS</Location>
+      <Location>THE COSMOS</Location>
+      <Location>CAFE</Location>
+      <Location>RAY'S HEAD</Location>
+      <Location>RAY'S MIND</Location>
+      <Location>KWAN'S BEDROOM</Location>
+      <Location>CLAY'S APARTMENT</Location>
+      <Location>ABRAMS PLANETARIUM</Location>
+      <Location>NEW YORK CITY STREETS</Location>
+      <Location>REYES LIVING ROOM</Location>
+      <Location>COSMIC POP-UP BOOK</Location>
+      <Location>REYES LIVING ROOM (2001)</Location>
+      <Location>MINIVERSE</Location>
+      <Location>AURORA'S HOME</Location>
+      <Location>MSU UNION</Location>
+      <Location>BROOKLYN STREET</Location>
+      <Location>KWAN'S CAR</Location>
+      <Location>OVER BLACK...</Location>
+      <Location>END MAIN TITLES</Location>
+      <Location>DEEP SPACE</Location>
+      <Location>ROCKET</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>Clay</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+      <TimeOfDay>MINUTES LATER</TimeOfDay>
+      <TimeOfDay>HOURS LATER</TimeOfDay>
+      <TimeOfDay>AN HOUR LATER</TimeOfDay>
+      <TimeOfDay>MIDMORNING</TimeOfDay>
+      <TimeOfDay>SHORTLY AFTER</TimeOfDay>
+      <TimeOfDay>NOON</TimeOfDay>
+      <TimeOfDay>INTERCUT</TimeOfDay>
+      <TimeOfDay>DAY &amp; NIGHT</TimeOfDay>
+      <TimeOfDay>STRATOSPHERE VIEW</TimeOfDay>
+      <TimeOfDay>ANOTHER DAY</TimeOfDay>
+      <TimeOfDay>NIGHT (2025)</TimeOfDay>
+      <TimeOfDay>DAY (WEEKS LATER)</TimeOfDay>
+      <TimeOfDay>EARLIER</TimeOfDay>
+      <TimeOfDay>DAY (NEXT DAY)</TimeOfDay>
+      <TimeOfDay>MORNING (WEEKS LATER)</TimeOfDay>
+      <TimeOfDay>DAY (2006)</TimeOfDay>
+      <TimeOfDay>NIGHT (FLASHBACK)</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+      <Transition>Zoom in:</Transition>
+      <Transition>Cutaway to:</Transition>
+      <Transition>Return to:</Transition>
+      <Transition>Transition to:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="3/17/26" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="1358">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="Aardvark"/>
+    <Member Actor="" Character="AarDVARKs"/>
+    <Member Actor="" Character="Amami Rabbits"/>
+    <Member Actor="" Character="ATV"/>
+    <Member Actor="" Character="Audience"/>
+    <Member Actor="" Character="Aurora"/>
+    <Member Actor="" Character="Aurora"/>
+    <Member Actor="" Character="Baker G"/>
+    <Member Actor="" Character="Clay"/>
+    <Member Actor="" Character="Clay &amp; Ray"/>
+    <Member Actor="" Character="Clay &amp; Trini"/>
+    <Member Actor="" Character="Clay &amp; Trini &amp; Kwan"/>
+    <Member Actor="" Character="Crowd"/>
+    <Member Actor="" Character="Cát"/>
+    <Member Actor="" Character="Dino"/>
+    <Member Actor="" Character="Dàn Xuân Thanh"/>
+    <Member Actor="" Character="guard"/>
+    <Member Actor="" Character="Handler"/>
+    <Member Actor="" Character="Horseshoe Crabs"/>
+    <Member Actor="" Character="Host"/>
+    <Member Actor="" Character="Kid"/>
+    <Member Actor="" Character="Kids"/>
+    <Member Actor="" Character="Kooky"/>
+    <Member Actor="" Character="Kwa"/>
+    <Member Actor="" Character="Kwan"/>
+    <Member Actor="" Character="Kwan &amp; Kids"/>
+    <Member Actor="" Character="MOrgan"/>
+    <Member Actor="" Character="Nigel"/>
+    <Member Actor="" Character="Nurse"/>
+    <Member Actor="" Character="Officer"/>
+    <Member Actor="" Character="Performer"/>
+    <Member Actor="" Character="Phone"/>
+    <Member Actor="" Character="Producer"/>
+    <Member Actor="" Character="Puppeteer"/>
+    <Member Actor="" Character="Ray"/>
+    <Member Actor="" Character="Ray &amp; Clay"/>
+    <Member Actor="" Character="Ray &amp; Kwan"/>
+    <Member Actor="" Character="Reporter"/>
+    <Member Actor="" Character="Researcher 1"/>
+    <Member Actor="" Character="Researcher 2"/>
+    <Member Actor="" Character="Ri"/>
+    <Member Actor="" Character="River"/>
+    <Member Actor="" Character="Rocket"/>
+    <Member Actor="" Character="Sall"/>
+    <Member Actor="" Character="Sall &amp; Cát"/>
+    <Member Actor="" Character="Sall &amp; CÁT&#xA;"/>
+    <Member Actor="" Character="Savanna"/>
+    <Member Actor="" Character="Skye"/>
+    <Member Actor="" Character="Stage Manager"/>
+    <Member Actor="" Character="Star"/>
+    <Member Actor="" Character="Stardust"/>
+    <Member Actor="" Character="Starpower"/>
+    <Member Actor="" Character="Stars"/>
+    <Member Actor="" Character="Trini"/>
+    <Member Actor="" Character="Trini &amp; Kids"/>
+    <Member Actor="" Character="Waiter"/>
+    <Member Actor="" Character="Young Sall"/>
+    <Member Actor="" Character="Aurora &amp; Ray"/>
+    <Member Actor="" Character="Milky Way"/>
+    <Member Actor="" Character="Aurora, Ray, &amp; Kids"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="AURORA" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AURORA &amp; RAY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="AURORA, RAY, &amp; KIDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="KIDS" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MILKY WAY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="RAY" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ROCKET" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STARDUST" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STARPOWER" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="STARS" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="Order" TableIdentifier="NavDynScenes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="c182cd4e-ef72-4f4c-b3ca-a866f235b80d" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="9f25c9a1-6c03-4a2d-a974-0d73c8d529c8" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Color="#000000000000" Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab Selected="Yes" id="756b1668-c339-4fe9-a227-b968da86e94d"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
